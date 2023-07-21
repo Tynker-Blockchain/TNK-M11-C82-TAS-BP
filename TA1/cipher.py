@@ -17,17 +17,6 @@ numbers='0123456789'
             
             # Calculate the character using formula : numbers[(currentPosition + n ) % 10] and add it to cipherText
             
-        # Check if 'char' is present in 'lowerLetters' list
-        
-            # Get the current position of the 'char' in 'lowerLetters' list
-            
-            # Calculate the character using formula : numbers[(currentPosition + n ) % 26] and add it to cipherText
-            
-        # Check if 'char' is present in 'capitalLetters' list
-        
-            # Get the current position of the 'char' in 'capitalLetters' list
-            
-            # Calculate the character using formula : numbers[(currentPosition + n ) % 26] and add it to cipherText
             
         # Else add the 'char' to 'cipherText'
         
