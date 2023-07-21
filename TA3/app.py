@@ -46,7 +46,7 @@ def home():
         
         print("DeCipher Text: ",decipherData)
 
-        # Also return cipherData and decipherData
+        # Also return cipherData 
         return render_template('index.html', blockData = blockData)
 
 if __name__ == '__main__':
